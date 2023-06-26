@@ -59,11 +59,8 @@ Note: Kernel sizes and activation functions for the hidden layers should be deci
 
    ```bash
     pip install -r requirements.txt
-4. Run the Python file or Jupyter Notebook containing the code for the experiments.
+4. Run the Jupyter Notebook containing the code for the experiments.
 5. Refer to the report (PDF file) for detailed analysis, results, and personal comments on the conducted experiments.
 
 ## Author
-Your Name
-
-## License
-This project is licensed under the [License Name] - [License URL] (if applicable)
+Vlad Bulhakov
